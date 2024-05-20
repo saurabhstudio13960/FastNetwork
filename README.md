@@ -1,3 +1,5 @@
+# Deprecated
+
 # FastNetwork
 Fast Network package remove the gap between unity & Google real time multiplayer feature. (Coming soon)
 
